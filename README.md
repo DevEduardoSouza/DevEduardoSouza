@@ -2,7 +2,6 @@
 
 
 
-- 🔭 Hoje eu trabalho com Front-End
 - 🌱 Estudando ADS
 - 📫 eduardosouza.din2@gmail.com
 
@@ -18,11 +17,12 @@
    <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Edu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
+    
   ##
   
   <div>
     
-  <a target="_blank" href="https://instagram.com/eduardo_souza.74"> 
+  <a target="_blank" href="https://instagram.com/eduardosouza.dev"> 
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
   </a>
   <a target="_blank" href = "mailto:eduardosouza.din2i@gmail.com"> 
