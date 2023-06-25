@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dark&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)
 
@@ -8,25 +8,7 @@
 
 ### Olá! eu sou Eduardo Souza👋
 
-<p align="left">
-  Contato ⤵️
-</p>
 
-  ##
-  
-  <div>
-    
-  <a target="_blank" href="https://instagram.com/eduardosouza.dev"> 
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
-  </a>
-  <a target="_blank" href = "mailto:eduardo456.acc38@gmail.com"> 
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> 
-  </a>
-  <a target="_blank" href="https://www.linkedin.com/in/eduardo-souza-88a89b22a">  
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  
-  </div>
 
 
 <h3> :rocket: &nbsp; Skills</h3>
@@ -43,6 +25,25 @@
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=SQL&logoColor=61DAFB)
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+
+
+  <p align="left">
+  Contato ⤵️
+</p>
+  
+  <div>
+    
+  <a target="_blank" href="https://instagram.com/eduardosouza.dev"> 
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+  </a>
+  <a target="_blank" href = "mailto:eduardo456.acc38@gmail.com"> 
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"> 
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/eduardo-souza-88a89b22a">  
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  
+  </div>
  
   
  <br>
@@ -51,6 +52,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eduardo074&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardo074&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
 
     
