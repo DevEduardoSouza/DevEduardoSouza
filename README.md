@@ -1,18 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)
-
-<div align="center">  
-
-</div> 
-
 ### Olá! eu sou Eduardo Souza👋
 
-
-
-
 <h3> :rocket: &nbsp; Skills</h3>
-
 
 **Linguagens e Frameworks**
 
@@ -47,12 +35,11 @@
  
   
  <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/DevEduardoSouza">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevEduardoSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevEduardoSouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
-   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
 
     
