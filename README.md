@@ -4,6 +4,10 @@ Proficiente em JavaScript, React e TypeScript, dedicado a criar soluções inova
 
 Atualmente, estou expandindo meu conhecimento em ***Node.js***, explorando novas possibilidades e aprimorando meu conjunto de habilidades. 
 
+<a target="_blank" href="https://eduardosouzadev.netlify.app/"> 
+  Link para o meu portfólio 
+</a>
+
 <h3> :rocket: &nbsp; Skills</h3>
 
 ## Foco Principal:
