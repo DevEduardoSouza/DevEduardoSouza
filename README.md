@@ -13,7 +13,10 @@ Atualmente, estou expandindo meu conhecimento em ***Node.js***, explorando novas
   </p>
   
   <div>
-    
+
+  <a target="_blank" href="https://www.youtube.com/@DevAprendendo-zk8fu">  
+  <img src="https://img.shields.io/badge/-YouTUbe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a> 
   <a target="_blank" href="https://instagram.com/eduardosouza.dev"> 
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
   </a>
@@ -22,9 +25,6 @@ Atualmente, estou expandindo meu conhecimento em ***Node.js***, explorando novas
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/eduardo-souza-88a89b22a">  
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-   <a target="_blank" href="https://www.youtube.com/@DevAprendendo-zk8fu">  
-  <img src="https://img.shields.io/badge/-YouTUbe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a> 
   </div>
 
