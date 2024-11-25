@@ -14,7 +14,7 @@ Atualmente, estou expandindo meu conhecimento em ***Node.js***, explorando novas
   
   <div>
 
-  <a target="_blank" href="https://www.youtube.com/@DevAprendendo-zk8fu">  
+  <a target="_blank" href="https://www.youtube.com/@DevUndefined">  
   <img src="https://img.shields.io/badge/-YouTUbe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a> 
   <a target="_blank" href="https://instagram.com/eduardosouza.dev"> 
