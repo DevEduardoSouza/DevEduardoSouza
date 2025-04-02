@@ -1,22 +1,32 @@
-### Olá! eu sou Eduardo Souza👋
+<div align="">
+  <h1>Eduardo Souza | Full-Stack Developer</h1>
+  <hr width="50%">
+  
+  <p>💻 3 anos transformando ideias em sistemas completos</p>
 
-Eduardo Souza | Full-Stack Developer (Bahia, Brasil)
--------------------------------------------
-💻 3 anos transformando ideias em sistemas completos
+  <h3>Principais Competências:</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🤖 Criação de bots inteligentes com IA (WhatsApp/Telegram)</li>
+    <li>🌐 Desenvolvimento Full-Stack (React + Node.js + MongoDB)</li>
+    <li>🛠 WordPress customizado e otimizado</li>
+    <li>⚙️ Automações complexas e web scraping</li>
+    <li>🚀 Landing Pages de alta performance</li>
+  </ul>
 
-Principais Competências:
-• Criação de bots inteligentes com IA (WhatsApp/Telegram)
-• Desenvolvimento Full-Stack (React + Node.js + MongoDB)
-• WordPress customizado e otimizado
-• Automações complexas e web scraping
-• Landing Pages de alta performance
+  <h3>Diferenciais:</h3>
+  <div style="text-align: left; display: inline-block;">
+    <p>✅ 52+ projetos públicos no GitHub<br>
+       ✅ Entrega pontual com documentação clara<br>
+       ✅ Foco em performance e resultados</p>
+  </div>
 
-Diferenciais:
-✅ 52+ projetos públicos no GitHub
-✅ Entrega pontual com documentação clara
-✅ Foco em performance e resultados
+  <h3>Disponível para:</h3>
+  <p>🔧 Projetos de automação inteligente<br>
+     💻 Desenvolvimento web completo<br>
+     📊 Consultorias técnicas</p>
 
-Disponível para: Projetos de automação inteligente, desenvolvimento web completo e consultorias técnicas.
+  <hr width="30%">
+</div>
 
   <p align="left">
   Contato ⤵️
