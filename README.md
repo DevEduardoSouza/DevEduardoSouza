@@ -1,12 +1,22 @@
 ### Olá! eu sou Eduardo Souza👋
 
-Proficiente em JavaScript, React e TypeScript, dedicado a criar soluções inovadoras e escaláveis no front-end. Comprometido em aprimorar constantemente minhas habilidades e contribuir para projetos desafiadores. Uso o Git e o GitHub para compartilhar meu trabalho com a comunidade.
+Eduardo Souza | Full-Stack Developer (Bahia, Brasil)
+-------------------------------------------
+💻 3 anos transformando ideias em sistemas completos
 
-Atualmente, estou expandindo meu conhecimento em ***Node.js***, explorando novas possibilidades e aprimorando meu conjunto de habilidades. 
+Principais Competências:
+• Criação de bots inteligentes com IA (WhatsApp/Telegram)
+• Desenvolvimento Full-Stack (React + Node.js + MongoDB)
+• WordPress customizado e otimizado
+• Automações complexas e web scraping
+• Landing Pages de alta performance
 
-<a target="_blank" href="https://eduardosouzadev.netlify.app/"> 
-  Link para o meu portfólio 
-</a>
+Diferenciais:
+✅ 52+ projetos públicos no GitHub
+✅ Entrega pontual com documentação clara
+✅ Foco em performance e resultados
+
+Disponível para: Projetos de automação inteligente, desenvolvimento web completo e consultorias técnicas.
 
   <p align="left">
   Contato ⤵️
